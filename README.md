@@ -1,6 +1,10 @@
-# RC
+# Descrição
 
-Trabalho de Rede de Computadores do Professor Thiago
-Aluna: Vanessa Fernandes da Silva 
+Esse projeto foi criado no intuito de obter conhecimentos sobre protocolo HTTP utilizando edpoints na disciplina de Rede de Computadores do Professor Thiago.
 
-Para o funcionamento desse projeto será necessário a instalação do Node.js na maquina e a instalação do pacote NPM.
+# Tecnologias Utilizadas
+* Node.js
+* Express
+
+
+# Para rodar o projeto
