@@ -11,5 +11,5 @@ Esse projeto foi criado no intuito de obter conhecimentos sobre protocolo HTTP u
 # Para rodar o projeto
 
 * Instalar Node.js na maquina
-* Instalar o pacote NPM
-* Instalar o pacote Express
+* Instalar a biblioteca NPM
+* Instalar a biblioteca Express
